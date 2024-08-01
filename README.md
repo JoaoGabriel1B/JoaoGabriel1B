@@ -1,7 +1,7 @@
 - 👋  oi, meu nome é @JoaoGabriel1B
 - 👀 Estou interessado e tentando ser programador
 - 🌱 E atualmente estou aprendendo e tentando me dedicar nos estudos
-- 💞️ Estou procurando colaborar em aprender e habituar com estudos 
+- 💞️ Estou procurando colaborar em aprender e habituar com meus estudos 
 - 📫 contato: 19989433922
 - 😄 Pronomes: 
 - ⚡ curiosidade: tento me esforçar no que eu faço e as vezes um pouco carismático, e mudar cada vez mais cada dia.
