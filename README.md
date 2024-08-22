@@ -6,7 +6,7 @@
 - 😄 Pronomes: 
 - ⚡ curiosidade: tento me esforçar no que eu faço e as vezes um pouco carismático, e mudar cada vez mais cada dia.
 
-(https://cdn.dicionariopopular.com/imagens/numero-nove.gif)
+![](https://cdn.dicionariopopular.com/imagens/numero-nove.gif)
 <!---
 JoaoGabriel1B/JoaoGabriel1B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
